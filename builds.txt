@@ -1,0 +1,8 @@
+name="Bản Dựng Số 1"
+version="1.0.0"
+url="LINK_FILE_ZIP_TRỰC_TIẾP_SẼ_CÓ_Ở_BƯỚC_3"
+minor=""
+major=""
+boxtext="Bản build Kodi đầy đủ tính năng xem phim và truyền hình."
+thumbnail="https://githubusercontent.com"
+fanart="https://githubusercontent.com"
